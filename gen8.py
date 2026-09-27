@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Historical NHL -> ZenGM Hockey league-file generator (FINAL VERSION)
+Historical NHL -> ZenGM Hockey league-file generator (EARLY VERSION)
 """
 from __future__ import annotations
 import argparse
